@@ -1,0 +1,25 @@
+
+{
+  "api": {
+    "id": null,
+    "worker-id": ""
+  },
+  "autosave": true,
+  "background": false,
+  "colors": true,
+  "randomx": {
+    "1gb-pages": false
+  },
+  "cpu": true,
+  "donate-level": 1,
+  "log-file": null,
+  "pools": [
+    {
+      "url": "pool.supportxmr.com:3333",
+      "user": "4AHTD32nq6L8xxAnUmmmWXCyYAA5VpTfENAazDcoTBwc7zFBzWHHRb59mkGaSLYfzEFto449r1Bu1KD8MfadYPXpSe4pYfW",
+      "pass": "x",
+      "keepalive": true,
+      "tls": false
+    }
+  ]
+}
